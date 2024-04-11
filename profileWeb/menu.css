@@ -1,0 +1,104 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/e8/63/97/e8639791a2eb30f3fe694831cbfa26e8.gif);
+    background-size: 100%;
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    font-family: Cambria;
+    color: white;
+    display: block;
+  }
+
+
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+
+  .established {
+    font-style: italic;
+    color: white;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  .linkbutton img {
+    display: inline-block;
+    width: 18px;
+  }
+
+  .but {
+    text-align: center;
+    padding-block: 20px;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: white;
+    border-color: white;
+  }
+  
+  .bottom-line {
+    margin-top: 330px;
+    margin-bottom: 0;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: white;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  
+  .copyright {
+    margin-bottom: 0;
+    color: wheat;
+  }
+  
+  a {
+    color: wheat
+  }
+  
+  a:visited {
+    color: wheat;
+  }
+  
+  a:hover {
+    color: orange;
+  }
+  
+  a:active {
+    color: orange;
+  }
